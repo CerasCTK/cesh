@@ -1,0 +1,7 @@
+# IDE folder
+.idea/
+
+# Build
+build/
+bin/
+.cache/
